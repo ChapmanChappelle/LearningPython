@@ -17,4 +17,4 @@ result = ",".join(duplicate_free_emails)
 
 #writing emails to a new .txt 
 with open("duplicate_free_emails.txt","w") as file_object:
-    file_object.write(result)
+    file_object.write(result)            

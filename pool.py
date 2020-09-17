@@ -128,6 +128,7 @@ def menu():
     menu()
 
 
+
 #creating room of 12 tables  
 room = []
 for i in range(0,12):

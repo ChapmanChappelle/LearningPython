@@ -1,6 +1,6 @@
 import datetime as dt
 
-#fields
+#fields (cost is 30 an hour converted to seconds)
 cost = (30/3600)
 
 
